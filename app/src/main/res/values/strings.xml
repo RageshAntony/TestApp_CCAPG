@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiveApp</string>
+    <string name="access_code">AVSZ03ID77BZ43ZSZB</string>
+    <string name="mer_id">43366</string>
+    <string name="enc_key">D906FFEF585D34A5C504D27172B40F26</string>
+    <string name="rsa_url">http://40.123.214.122:4000/ccAvenue/getRSA?access_code=%1$s&amp;order_id=%1$s</string>
+    <string name="rsa_post">http://40.123.214.122:4000/ccAvenue/getRSA</string>
+</resources>

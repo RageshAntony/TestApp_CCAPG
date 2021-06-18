@@ -1,0 +1,2 @@
+include ':sdkdubai'
+include ':app'
